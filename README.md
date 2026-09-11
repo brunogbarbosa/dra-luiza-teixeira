@@ -41,7 +41,7 @@ O retrato do anexo 11 aparece na abertura. Os anexos 2 e 3 compõem as seções 
 - `components/chapters.tsx`: galeria, jornada e contato.
 - `app/luiza.css`: identidade e enquadramentos responsivos.
 - `app/icon.svg`, `app/favicon.ico` e `app/apple-icon.png`: favicon próprio.
-- `app/opengraph-image.png` e `app/twitter-image.png`: compartilhamento 1200 × 630.
+- `app/opengraph-image.jpg` e `app/twitter-image.jpg`: compartilhamento 1659 × 948, com a arte fornecida pelo cliente otimizada em JPEG.
 
 Fontes locais e respectivas licenças preservadas em `public/fonts`. As animações respeitam `prefers-reduced-motion`. A navegação mobile e a galeria usam diálogos nativos, com fechamento por Escape e restauração de foco.
 
